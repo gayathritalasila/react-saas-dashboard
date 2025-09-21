@@ -15,7 +15,7 @@ import { ExpandMore } from '@mui/icons-material';
 import ChevronRightIcon from '@mui/icons-material/ChevronRight';
 import CircleIcon from '@mui/icons-material/Circle';
 import DashboardIcon from '../assets/DashboardIcon.jsx';
-import EcommerceIcon from '../assets/eCommerceIcon.jsx';
+import EcommerceIcon from '../assets/EcommerceIcon.jsx';
 import ProjectsIcon from '../assets/ProjectsIcon.jsx';
 import OnlineCoursesIcon from '../assets/OnlineCoursesIcon.jsx';
 import ProfileIcon from '../assets/ProfileIcon.jsx';
